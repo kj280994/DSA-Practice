@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package zerooneknapsack;
 
 /**
  * No of combinations of +/- to array elements to get a target sum

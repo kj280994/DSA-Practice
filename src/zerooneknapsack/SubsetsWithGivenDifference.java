@@ -1,3 +1,5 @@
+package zerooneknapsack;
+
 import java.util.Scanner;
 
 /**
